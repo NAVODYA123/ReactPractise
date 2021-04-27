@@ -72,7 +72,6 @@ class App extends React.Component {
                               Avatar={this.state.avatar}/>
                     </div>
                 </Jumbotron>
-
             </div>
 
 
